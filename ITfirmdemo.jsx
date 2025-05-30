@@ -101,7 +101,7 @@ export default function ModernWebsite() {
         <div className="container mx-auto px-4 py-3 flex justify-between items-center">
           <div className="flex items-center">
             <div className="text-2xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 text-transparent bg-clip-text">
-              INNOVATE
+              INNOVATION
             </div>
           </div>
 
